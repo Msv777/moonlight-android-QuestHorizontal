@@ -1,4 +1,5 @@
 # A more suitable side loading Moonlight apk on Quest.The default orientation has been changed to horizontal.
+# 用于Quest头显的Moonlight apk.默认的启动朝向被更改为横向
 # Moonlight Android 
 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/232a8tadrrn8jv0k/branch/master?svg=true)](https://ci.appveyor.com/project/cgutman/moonlight-android/branch/master)
