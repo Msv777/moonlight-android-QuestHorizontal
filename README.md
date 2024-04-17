@@ -1,7 +1,8 @@
 # A more suitable side loading Moonlight apk on Quest.The default orientation has been changed to horizontal.
-  When starting up close to the handheld device, Moonlight can display the image horizontally, and when starting from a distance, it also avoids adjusting the resolution. The resolution can still be adjusted
+  When starting up close to the handheld device, Moonlight can display the image horizontally, and when starting up further away (TV), it also avoids adjusting the resolution. The resolution can still be adjusted
 # 用于Quest头显的Moonlight apk,默认的启动朝向被更改为横向
   在手持近处启动时,moonlight可以横向显示画面,在远处启动时,也避免了调整分辨率.分辨率仍然可以调整
+  注:quest3 v64 and moonlight12.1 ,20240417.
 # Moonlight Android 
 
 [![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/232a8tadrrn8jv0k/branch/master?svg=true)](https://ci.appveyor.com/project/cgutman/moonlight-android/branch/master)
